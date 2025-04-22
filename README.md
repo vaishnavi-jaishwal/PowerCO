@@ -106,3 +106,10 @@ Build dashboards to monitor churn risk and customer retention strategies.
 
 If you have any questions or want to contribute, feel free to open an issue or pull request!
 
+## Project Report
+
+You can view the detailed project report here:
+
+[View Project Report (PDF)](docs/report.pdf)
+
+
